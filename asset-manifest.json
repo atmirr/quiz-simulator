@@ -1,0 +1,11 @@
+{
+  "main.js": "/quiz-simulator/static/js/main.00ce2cb8.chunk.js",
+  "main.js.map": "/quiz-simulator/static/js/main.00ce2cb8.chunk.js.map",
+  "static/js/1.bc63a9dd.chunk.js": "/quiz-simulator/static/js/1.bc63a9dd.chunk.js",
+  "static/js/1.bc63a9dd.chunk.js.map": "/quiz-simulator/static/js/1.bc63a9dd.chunk.js.map",
+  "runtime~main.js": "/quiz-simulator/static/js/runtime~main.1d62bc66.js",
+  "runtime~main.js.map": "/quiz-simulator/static/js/runtime~main.1d62bc66.js.map",
+  "index.html": "/quiz-simulator/index.html",
+  "precache-manifest.2f2667064d306f4b19f701597ea52a76.js": "/quiz-simulator/precache-manifest.2f2667064d306f4b19f701597ea52a76.js",
+  "service-worker.js": "/quiz-simulator/service-worker.js"
+}
