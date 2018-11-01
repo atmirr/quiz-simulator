@@ -1,0 +1,121 @@
+{
+  "allQuestions": [
+    {
+      "id": 0,
+      "question": "Who plays Abraham Lincoln in the film Lincoln (2012)",
+      "answers": [
+        "Bruce Dern",
+        "Eddie Redmayne",
+        "Daniel Day-Lewis",
+        "Jeremy Renner"
+      ],
+      "correctAnswerID": 2
+    },
+    {
+      "id": 1,
+      "question": "Who plays the main character Chad Gates in the film Blue Hawaii (1961)",
+      "answers": [
+        "Cary Grant",
+        "Montgomery Clift",
+        "Elvis Presley",
+        "Tony Curtis"
+      ],
+      "correctAnswerID": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the name of main character in The Wonderful Wizard of Oz",
+      "answers": [
+        "Ginger",
+        "Almira",
+        "Dorothy",
+        "Glinda"
+      ],
+      "correctAnswerID": 2
+    },
+    {
+      "id": 3,
+      "question": "Which year was the film The Godfather, directed by Francis Ford Coppola, released",
+      "answers": [
+        "1962",
+        "1992",
+        "1982",
+        "1972"
+      ],
+      "correctAnswerID": 3
+    },
+    {
+      "id": 4,
+      "question": "Who is the director of The film Avatar",
+      "answers": [
+        "Kathryn Bigelow",
+        "Quentin Tarantino",
+        "Joel Coen and Ethan Coen",
+        "James Cameron"
+      ],
+      "correctAnswerID": 3
+    },
+    {
+      "id": 5,
+      "question": "Which of these films was released first",
+      "answers": [
+        "Mississippi Burning",
+        "E.T. - The Extra-Terrestrial",
+        "Pulp Fiction",
+        "Die Hard"
+      ],
+      "correctAnswerID": 1
+    },
+    {
+      "id": 6,
+      "question": "Who plays the leading role as Peter Parker in the movie Spider-Man (2002)",
+      "answers": [
+        "Michael Keaton",
+        "Tobey Maguire",
+        "John Corbett",
+        "Daniel Radcliffe"
+      ],
+      "correctAnswerID": 1
+    },
+    {
+      "id": 7,
+      "question": "Sophia Loren is born in which country",
+      "answers": [
+        "Greece",
+        "Spain",
+        "Russia",
+        "Italy"
+      ],
+      "correctAnswerID": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the main character in Die Hard",
+      "answers": [
+        "Harry Callahan",
+        "John McClane",
+        "Walt Kowalski",
+        "Harry Bosch"
+      ],
+      "correctAnswerID": 1
+    },
+    {
+      "id": 9,
+      "question": "Who plays the main character, Vincent Vega, in Pulp Fiction (1994)",
+      "answers": [
+        "John Belushi",
+        "Denzel Washington",
+        "John Travolta",
+        "Robert De Niro"
+      ],
+      "correctAnswerID": 2
+    }
+  ],
+  "userProfile" : {
+    "name": null,
+    "userAnswers": [],
+    "score": 0,
+    "deadline": false,
+    "questionIndicator": 0
+  }
+}
