@@ -14,7 +14,7 @@ class ScoreContainer extends Component {
     }
 }
 
-const mapStateToProps = state => ({
+export const mapStateToProps = state => ({
     name: state.userProfile.name,
     score: state.userProfile.score
 })

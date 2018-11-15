@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Score Component The Display Element Should not regress 1`] = `
+<div
+  className="jumbotron"
+>
+  <h1>
+    You Score
+  </h1>
+  <p>
+    Dear 
+    Amir
+    ,
+  </p>
+  <p>
+    You got 
+    20
+     score in this quiz!
+  </p>
+  <div
+    className="row justify-content-md-center"
+    style={
+      Object {
+        "marginTop": 20,
+      }
+    }
+  >
+    <button
+      className="btn btn-info large"
+      onClick={[Function]}
+      type="button"
+    >
+      Try Again
+    </button>
+  </div>
+</div>
+`;
